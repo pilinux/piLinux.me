@@ -35,4 +35,4 @@ Nov 03 - 2017
 ### MathJax: Enable (Y), Disable (empty line)
 
 
-### noindex by Google: Enable (Y), Disable (empty line)
+### noindex by Google: Enable (N), Disable (empty line)
